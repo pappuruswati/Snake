@@ -18,7 +18,7 @@ A **Snake Game** developed in Java, where players control the snake to collect f
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Snake-Game-Java.git
+   git clone https://github.com/your-username/Snake.git
 2. Navigate to the project directory and compile the code:
 bash
 Copy code
